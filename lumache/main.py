@@ -19,3 +19,6 @@ def multiply(a,b):
     Blub Blub
     """
     return(a*b)
+
+def add(a,b):
+    return(a+b)
