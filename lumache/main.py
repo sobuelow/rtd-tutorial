@@ -1,6 +1,3 @@
-import numpy as np
-import pandas as pd
-
 def multiply(a,b):
     """
     This is a summary.
