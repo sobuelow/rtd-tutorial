@@ -4,7 +4,7 @@ Documentation
 This is a documentation.
 
 .. automodule:: lumache.main
-   :members: 
+   :members: multiply
    :undoc-members:
 
 aasd;flaksjd;lakfjsdf.
